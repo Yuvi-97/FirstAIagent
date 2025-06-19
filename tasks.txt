@@ -1,0 +1,10 @@
+Integrate Google Firebase for authentication  
+Create dashboard to display expense summary  
+Implement expense input form with category and date  
+Store expenses in a SQLite or MongoDB database  
+Add filter feature to view expenses by date and category  
+Generate pie chart for monthly spending breakdown  
+Enable dark/light mode toggle  
+Deploy app to Play Store  
+Write unit tests for expense calculations  
+Implement export to CSV feature  
